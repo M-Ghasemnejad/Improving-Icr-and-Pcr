@@ -33,5 +33,5 @@ If you use these codes in your research, please cite the original paper:
 ```
 
 ## Links
-Code: https://github.com/M-Ghasemnejad/ICA-Codes
+Code: https://github.com/M-Ghasemnejad/Improving-Icr-and-Pcr
 
